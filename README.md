@@ -1,0 +1,2 @@
+# LottiePlayer
+LottiePlayer Oqtane Module
